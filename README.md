@@ -1,6 +1,6 @@
 # Weather-WeChat-MiniProgram
 
-This project is according to: https://classroom.udacity.com/courses/ud666-cn-1）
+This project is according to: https://classroom.udacity.com/courses/ud666-cn-1
 
 ## Demo
 
